@@ -1,4 +1,4 @@
-<h2 align="left">Olá!! muito prazer, meu nome é Ueslei Delmar Zanela Antunes e aqui estão alguns dos meus projetos.</h2>
+<h2 align="left">Olá!! muito prazer, aqui estão alguns dos meus projetos.</h2>
 
 ###
 
