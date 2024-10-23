@@ -72,7 +72,7 @@
 
 ###
 
-<h3 align="left">Muito obrigado por visitar o meu perfil!!</h3>
+<h3 align="left">Visitas ao perfil:</h3>
 
 ###
 
